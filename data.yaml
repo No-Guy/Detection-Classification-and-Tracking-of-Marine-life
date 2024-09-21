@@ -1,0 +1,14 @@
+names:
+ - fish
+ - clownfish
+ - mantaray
+ - jellyfish
+ - seaturtle
+ - dolphin
+ - shark
+ - seal
+ - swordfish
+ - butterflyfish
+nc: 10
+train: D:\Guy\Uni\Project\Yolo\train
+val: D:\Guy\Uni\Project\Yolo\val
